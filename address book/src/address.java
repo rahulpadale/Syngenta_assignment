@@ -16,6 +16,7 @@ import javax.swing.*;
      * Of course, in this exercise, the 'database' is a little unrealistic:
      * the information is built-in to the program (whereas in a 'serious' system it would,
      * perhaps, be read in from a file).
+     * by Rahul Padale
 
      */
 
