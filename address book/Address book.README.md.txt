@@ -13,7 +13,7 @@ matched contact(s) from the address book
 The program will keep track of the file that the current address book was read from or most recently saved
 to, will display the file's name as the title of the main window. 
 
-
+by Rahul Padale
 Sample Data
 
 "Dave","Smith","123 main st.","seattle","wa","43"
